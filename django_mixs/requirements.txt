@@ -1,0 +1,4 @@
+django
+linkml
+django-crispy-forms
+django-extensions
